@@ -50,8 +50,8 @@
   </a>
   <a href="https://www.rust-lang.org/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://docs.rs/-/rustdoc.static/rust-logo-151179464ae7ed46.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://docs.rs/-/rustdoc.static/rust-logo-151179464ae7ed46.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="./images/rust-logo-invert.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./images/rust-logo.svg">
       <img src="https://docs.rs/-/rustdoc.static/rust-logo-151179464ae7ed46.svg" width="50" height="50">
     </picture>
   </a>
