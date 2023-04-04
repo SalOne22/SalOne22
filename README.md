@@ -19,16 +19,11 @@ I also like to solve coding challenges, and currently have a 6 kyu rank on CodeW
 
 ## My GitHub Stats
 
-![SalOne's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalOne22&show_icons=true&theme=dracula)
+[![SalOne's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SalOne22&show_icons=true&bg_color=ffffff00&title_color=C3E88D&icon_color=89DDFF&text_color=EEFFFF#gh-dark-mode-only)](https://github.com/SalOne22#gh-dark-mode-only)
+[![SalOne's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SalOne22&show_icons=true&bg_color=ffffff00&title_color=95D634&icon_color=82AAFF&text_color=545454#gh-dark-mode-only)](https://github.com/SalOne22#gh-light-mode-only)
 
 ## Languages and Tools
 
-- HTML
-- CSS
-- Rust
-- JavaScript
-- React
-- Node.js
-- Git
+<p> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50" height="50"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50" height="50"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50"> </a> <a href="https://www.rust-lang.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" height="50"> </a> <a href="https://react.dev/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"> </a> <a href="https://nodejs.org/en"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="50" height="50"> </a> <a href="https://git-scm.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50"> </a> </p>
 
 Thanks for visiting my profile. Feel free to connect with me and let's code together!
