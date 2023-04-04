@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hi there, I'm Vladyslav 👋
 
-<!--
-**SalOne22/SalOne22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack developer with expertise in CSS, HTML and Rust, and currently learning JavaScript, React, and Node.js. I'm also planning to learn TypeScript and Nest.js in the future.
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I’m currently working on my Image Processing CLI Tool "Rimage" which can be found here: [https://github.com/SalOne22/rimage](https://github.com/SalOne22/rimage)
+- 🌱 I’m currently learning JavaScript, React, and Node.js
+- 👯 I’m looking to collaborate on open-source projects in Rust or JavaScript
+- 🤔 I’m looking for help with mastering my coding skills in Rust and JS
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: Discord - SalOne#3683
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## CodeWars
+
+I also like to solve coding challenges, and currently have a 6 kyu rank on CodeWars.
+
+[![Codewars](https://www.codewars.com/users/SalOne22/badges/large)](https://www.codewars.com/users/SalOne22)
+
+## My GitHub Stats
+
+![SalOne's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalOne22&show_icons=true&theme=dracula)
+
+## Languages and Tools
+
+- HTML
+- CSS
+- Rust
+- JavaScript
+- React
+- Node.js
+- Git
+
+Thanks for visiting my profile. Feel free to connect with me and let's code together!
