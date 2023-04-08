@@ -71,7 +71,7 @@
 
 <p align="center">Ps. if you want to support me, you can</p>
 <div align="center">
-  <a href="https://www.buymeacoffee.com/vladsalone" target="_blank">
+  <a href="https://www.buymeacoffee.com/vladsalone">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Buy%20me%20a%20coffe-%23212121?style=for-the-badge&logo=buymeacoffee">
       <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Buy%20me%20a%20coffe-%23fcffff?style=for-the-badge&logo=buymeacoffee">
