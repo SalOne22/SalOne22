@@ -10,7 +10,7 @@
   <li>👯 I’m looking to collaborate on open-source projects in Rust or JavaScript</li>
   <li>🤔 I’m looking for help with mastering my coding skills in Rust and JS</li>
   <li>💬 Ask me about anything, I am happy to help</li>
-  <li>📫 How to reach me: Discord - SalOne#3683</li>
+  <li>📫 How to reach me: Discord - SalOne#3683 Telegram - <a href="https://t.me/Vlad_SalOne">Vlad_SalOne</a></li>
   <li>🎸 Fun fact: I play on guitar</li>
   <li>😄 Pronouns: He/Him</li>
 </ul>
