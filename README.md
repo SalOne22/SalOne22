@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Vladyslav 👋</h1>
 
-<p align="center">I'm a Full Stack developer with expertise in CSS, HTML and Rust, and currently learning JavaScript, React, and Node.js. I'm also planning to learn TypeScript and Nest.js in the future.</p>
+<p align="center">I'm a Full Stack developer with expertise in CSS, HTML, JS and Rust, and currently learning React, and Node.js. I'm also planning to learn TypeScript and Nest.js in the future.</p>
 
 <h2 align="center">About Me</h2>
 
