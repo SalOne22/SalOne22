@@ -1,22 +1,22 @@
 <h1 align="center">Hi there, I'm Vladyslav 👋</h1>
 
-<p align="center">I'm a Full Stack developer with expertise in CSS, HTML, JS and Rust, and currently learning React, and Node.js. I'm also planning to learn TypeScript and Nest.js in the future.</p>
+<p align="center">I'm a Frontend developer with expertise in CSS, HTML, JS and Rust, and currently learning React, and Node.js. I'm also planning to learn TypeScript, Astro and Next.js in the future.</p>
 
 <h2 align="center">About Me</h2>
 
 <ul>
   <li>🔭 I’m currently working on my Image Processing CLI Tool "Rimage" which can be found here: <a href="https://github.com/SalOne22/rimage">https://github.com/SalOne22/rimage</a> </li>
-  <li>🌱 I’m currently learning JavaScript, React, and Node.js</li>
+  <li>🌱 I’m currently learning React, and Node.js</li>
   <li>👯 I’m looking to collaborate on open-source projects in Rust or JavaScript</li>
-  <li>🤔 I’m looking for help with mastering my coding skills in Rust and JS</li>
+  <li>🤔 I’m looking for help with mastering my coding skills in Rust and React</li>
   <li>💬 Ask me about anything, I am happy to help</li>
-  <li>📫 How to reach me: Discord - SalOne#3683 Telegram - <a href="https://t.me/Vlad_SalOne">Vlad_SalOne</a></li>
+  <li>📫 How to reach me: Telegram - <a href="https://t.me/Vlad_SalOne">Vlad_SalOne</a></li>
   <li>🎸 Fun fact: I play on guitar</li>
 </ul>
 
 <h2 align="center">CodeWars</h2>
 
-<p align="center">I also like to solve coding challenges, and currently have a 6 kyu rank on CodeWars.</p>
+<p align="center">I also like to solve coding challenges, and currently have a 5 kyu rank on CodeWars.</p>
 
 <p align="center">
   <a href="https://www.codewars.com/users/SalOne22">
