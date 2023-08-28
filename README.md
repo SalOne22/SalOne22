@@ -1,30 +1,26 @@
 <h1 align="center">Hi there, I'm Vladyslav 👋</h1>
 
-<p align="center">I'm a Frontend developer with expertise in CSS, HTML, JS and Rust, and currently learning React, and Node.js. I'm also planning to learn TypeScript, Astro and Next.js in the future.</p>
+<p>I'm a Frontend developer with expertise in React, CSS, HTML, JavaScript, TypeScript and Rust, and currently learning Node.js to become a <i>Full-Stack</i> developer. I'm also planning to learn Astro and Next.js in the future.</p>
 
 <h2 align="center">About Me</h2>
 
 <ul>
-  <li>🔭 I’m currently working on my Image Processing CLI Tool "Rimage" which can be found here: <a href="https://github.com/SalOne22/rimage">https://github.com/SalOne22/rimage</a> </li>
-  <li>🌱 I’m currently learning React, and Node.js</li>
-  <li>👯 I’m looking to collaborate on open-source projects in Rust or JavaScript</li>
-  <li>🤔 I’m looking for help with mastering my coding skills in Rust and React</li>
+  <li>🔭 I’m currently working on my Image Processing CLI Tool "Rimage" which can be found here: <a href="https://github.com/SalOne22/rimage">rimage</a></li>
+  <li>💡 I’m currently learning Node.js</li>
+  <li>👯 I’m looking to collaborate on open-source projects in Rust or Web</li>
+  <li>🤔 I’m looking for help with mastering my coding skills in Rust</li>
   <li>💬 Ask me about anything, I am happy to help</li>
-  <li>📫 How to reach me: Telegram - <a href="https://t.me/Vlad_SalOne">Vlad_SalOne</a></li>
-  <li>🎸 Fun fact: I play on guitar</li>
+  <li>📫 How to reach me: <a href="https://www.linkedin.com/in/vladyslav-vladinov/">LinkedIn</a>, <a href="https://t.me/Vlad_SalOne">Telegram</a> or Discord - vlad_salone</li>
+  <li>🎸 Fun fact: I'm a musitian... <i>former</i></li>
 </ul>
 
-<h2 align="center">CodeWars</h2>
-
-<p align="center">I also like to solve coding challenges, and currently have a 5 kyu rank on CodeWars.</p>
+<h2 align="center">Stats</h2>
 
 <p align="center">
   <a href="https://www.codewars.com/users/SalOne22">
     <img src="https://www.codewars.com/users/SalOne22/badges/large">
   </a>
 </p>
-
-<h2 align="center">My GitHub Stats</h2>
 
 <p align="center">
   <a href="https://github.com/SalOne22">
@@ -36,33 +32,21 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/SalOne22">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SalOne22&layout=compact&bg_color=ffffff00&title_color=C3E88D&icon_color=89DDFF&text_color=EEFFFF">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SalOne22&layout=compact&bg_color=ffffff00&title_color=95D634&icon_color=82AAFF&text_color=545454">
+      <img alt="SalOne's GitHub top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalOne22&layout=compact&bg_color=ffffff00&title_color=C3E88D&icon_color=89DDFF&text_color=EEFFFF">
+    </picture>
+  </a>
+</p>
+
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50" height="50">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50" height="50">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50">
-  </a>
-  <a href="https://www.rust-lang.org/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/rust-logo-invert.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./images/rust-logo.svg">
-      <img src="https://docs.rs/-/rustdoc.static/rust-logo-151179464ae7ed46.svg" width="50" height="50">
-    </picture>
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50">
-  </a>
-  <a href="https://nodejs.org/en">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="50" height="50">
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50">
+  <a href="https://skillicons.dev">
+    <img alt="My stack" src="https://skillicons.dev/icons?perline=7&i=react,redux,js,ts,html,css,sass,tailwind,emotion,figma,firebase,vite,webpack,nodejs,express,docker,git,rust,actix,vscode,github" />
   </a>
 </p>
 
