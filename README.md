@@ -6,7 +6,7 @@
 
 <ul>
   <li>🔭 I’m currently working on my Image Processing CLI Tool "Rimage" which can be found here: <a href="https://github.com/SalOne22/rimage">rimage</a></li>
-  <li>💡 I’m currently learning Node.js</li>
+  <li>💡 I’m currently learning C#</li>
   <li>👯 I’m looking to collaborate on open-source projects in Rust or Web</li>
   <li>🤔 I’m looking for help with mastering my coding skills in Rust</li>
   <li>💬 Ask me about anything, I am happy to help</li>
