@@ -5,8 +5,8 @@
 <h2 align="center">About Me</h2>
 
 <ul>
-  <li>🔭 I’m currently working on my Image Processing CLI Tool "Rimage" which can be found here: <a href="https://github.com/SalOne22/rimage">rimage</a></li>
-  <li>💡 I’m currently learning C#</li>
+  <li>🔭 I’m currently working on a <a href="https://github.com/SalOne22/rimage">Rimage</a></li>
+  <li>💡 I’m currently learning advanced Rust (trait's and stuff)</li>
   <li>👯 I’m looking to collaborate on open-source projects in Rust or Web</li>
   <li>🤔 I’m looking for help with mastering my coding skills in Rust</li>
   <li>💬 Ask me about anything, I am happy to help</li>
@@ -50,4 +50,4 @@
   </a>
 </p>
 
-<p align="center">Thanks for visiting my profile. Feel free to connect with me and let's code together!</p>
+<p align="center">Thanks for visiting my profile!</p>
