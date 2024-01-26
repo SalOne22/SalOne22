@@ -11,7 +11,7 @@
   <li>🤔 I’m looking for help with mastering my coding skills in Rust</li>
   <li>💬 Ask me about anything, I am happy to help</li>
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/vladyslav-vladinov/">LinkedIn</a>, <a href="https://t.me/Vlad_SalOne">Telegram</a> or Discord - vlad_salone</li>
-  <li>🎸 Fun fact: I'm a musitian... <i>former</i></li>
+  <li>🎸 Fun fact: I make music</li>
 </ul>
 
 <h2 align="center">Stats</h2>
