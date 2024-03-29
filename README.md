@@ -9,8 +9,8 @@ You can reach me through Telegram or Discord - @vlad_salone
 
 - ⚡ I’m currently working on a [Rimage](https://github.com/SalOne22/rimage)
 - 💡 I’m currently learning advanced Rust (trait's and stuff)
-- 👯 I’m looking to collaborate on open-source projects in Rust or Web
-- 🤔 I’m looking for help with mastering software engineering
+- 🤝 I’m looking to collaborate on open-source projects in Rust or Web
+- 🤔 I’m looking for help with mastering my software engineering skills
 
 ## Need my stats?
 
