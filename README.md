@@ -1,16 +1,19 @@
 # Hi there, I'm Vladyslav 👋
 
-I'm a Frontend developer with expertise in React, CSS <i>magick</i>, TypeScript and Rust. Building performant solutions with nice visuals.  
-You can reach me through Telegram or Discord - @vlad_salone
+I'm a Frontend Developer working on building accessible, performant, and user-focused web experiences.  
+Currently focused on developing **[winwin.travel](https://www.winwin.travel/)** - a personalized hotel search platform with niche filtering.  
+Deep into **TypeScript**, **React**, and **modern architecture patterns**.  
+Also exploring systems-level programming with **Rust** and working on building robust frontend infrastructure.  
 
-[![My Stack](https://skillicons.dev/icons?i=ts,rust,react,next,css,tailwind,nodejs,express,vite,webpack)](https://skillicons.dev)
+[![My Stack](https://skillicons.dev/icons?i=ts,react,tailwind,css,vite,nodejs,express,webpack,rust)](https://skillicons.dev)
 
-## What do I do?
+## What am I up to?
 
-- ⚡ I’m currently working on a [Rimage](https://github.com/SalOne22/rimage)
-- 💡 I’m currently learning advanced Rust (trait's and stuff)
-- 🤝 I’m looking to collaborate on open-source projects in Rust or Web
-- 🤔 I’m looking for help with mastering my software engineering skills
+- 🛠 Leading frontend development at **winwin.travel**
+- 🧠 Learning advanced **React** patterns
+- 📦 Maintaining [Rimage](https://github.com/SalOne22/rimage)
+- 🤝 Open to collaboration on meaningful **Rust** or **web OSS** projects
+- 🔍 Always refining my software engineering and product thinking skills
 
 ## Need my stats?
 
